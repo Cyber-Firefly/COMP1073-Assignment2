@@ -12,6 +12,7 @@ const imageSrcArray = [
   "img4.jpg",
   "img5.jpg",
 ];
+
 // function to change bg color from user input and add student id
 function changeCustomColor() {
   const number = parseInt(customNumber.value);
